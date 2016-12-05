@@ -15,7 +15,7 @@ public class GUICreate {
 		int randomElement =  generator.nextInt(max);
 		return input[randomElement];
 	}
-	public double getHeight(String race)
+	//public double getHeight(String race)
 	{
 		//todo
 	}
